@@ -1,0 +1,11 @@
+name = "roll-doradobet-casino"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=roll-doradobet.casino"
+HMAC_KEY = "51271bea2528a907f43cef6ec7d03e187115cee8c4cd71564895036c8f013ba4"
+COOKIE_NAME = "jfq"
+PLAY_PATH = "visit-site"
+BUTTON_ID = "p912d5665edd5560081c2b5a85328ebe1"
+GATE_SALT = "c5b5cbe7eb99f253"
